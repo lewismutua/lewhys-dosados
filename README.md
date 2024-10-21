@@ -2,9 +2,8 @@
 # One page Portfolio Website (HTML CSS Project)
 **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
 
----
-
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+--
+### Made with ❤️ by [@lewhysdosados](https://www.instagram.com/lewhysdosados?igsh=YzljYTk1ODg3Zg==)
 
 Like my works and want to support me?
 
@@ -14,7 +13,7 @@ Like my works and want to support me?
 
 ## Other projects
 
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
+📚 [All Web Cifar Project Tutorials](https://github.com/lewismutua/lewhys-dosados)
   
 
 
