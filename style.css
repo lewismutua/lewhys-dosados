@@ -201,7 +201,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(/home/kali/Desktop/html/img/hero-bg.png);
+	background-image: url(hero-bg.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
