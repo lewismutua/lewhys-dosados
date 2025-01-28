@@ -13,7 +13,7 @@ Like my works and want to support me?
 
 ## Other projects
 
-📚 [connect with me 🙃](https://github.com/lewismutua/lewhys-dosados)
+📚 [connect with me 🙃](lewis2005mutua@gmail.com)
   
 
 
