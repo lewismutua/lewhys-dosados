@@ -13,7 +13,7 @@ Like my works and want to support me?
 
 ## Other projects
 
-📚 [connect with me 🙃](lewis2005mutua@gmail.com)
+📚 [connect with me 🙃] <a href="mailto:lewis2005mutua@gmail.com">Contact Me</a>
   
 
 
